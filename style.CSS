@@ -1,5 +1,5 @@
 body{
-border: 35px solid rgb(3, 11, 119);
+border: 35px solid rgb(181, 20, 202);
 background-image: url(azaria23.jpg);
 background-repeat: no-repeat;
 background-size: cover;
@@ -39,7 +39,7 @@ table{
     margin: auto;
 }
  td{
-    border: 5px solid blue;
+    border: 5px solid rgb(25, 0, 255);
     padding: 20px;
     margin: 30px;
 }
